@@ -283,6 +283,7 @@ span:hover{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
+    /*sin este display el color se va mas para el costado y no se ve el rosado*/
     display: table;
 }
 
